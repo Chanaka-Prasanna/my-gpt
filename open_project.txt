@@ -1,0 +1,1 @@
+cuda\Scripts\activate   - cuda is the vnv name
